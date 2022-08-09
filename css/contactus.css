@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;    
+}
+
+body{
+    /* background-color: rgb(21, 21, 31); */
+    background-image: url('../images/car3.jpg');
+    background-size: cover;
+}
+
+.contact-form{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+.logo{
+    height: 45px;
+    margin-right: 5px;
+}
+
+.mb-4{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    width: 97%;
+    border: 1px solid black;    
+}
+
+.footer-box{
+    background-color: rgb(27, 27, 27);
+    height: 40px;
+}
+
+.footer-text{
+    color: rgba(255, 255, 255, 0.7);
+    text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+    text-align: center; 
+    padding-top: 10px;
+}
